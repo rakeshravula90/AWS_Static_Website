@@ -59,11 +59,11 @@ AWS_Static_Website/
 │
 ├── img/
 │   └── Website images
-│
-├── vendor/
-│   ├── bootstrap/
-│   ├── jquery/
-│   └── fontawesome-free/
+
+│── bootstrap
+
+├── jquery/
+
 │
 └── screenshots/
     ├── 01-Bucket-Creation.png
@@ -98,7 +98,7 @@ Uploaded all project files to the S3 bucket, including:
 * Images
 * Bootstrap libraries
 * jQuery
-* Font Awesome
+  
 
 ---
 
