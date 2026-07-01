@@ -171,6 +171,7 @@ The repository contains screenshots demonstrating each deployment step:
 * Static Website Hosting Configuration
 * Bucket Policy
 * CloudFront Distribution
+* cloudfront enable status
 * Website Access via CloudFront
 
 ---
