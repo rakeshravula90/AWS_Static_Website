@@ -7,7 +7,7 @@ Website URLs:-
 CloudFront Distribution URL (Primary):
 ----------------------------------------
 
-dsms54nrgnlkd.cloudfront.net/index.html
+dsms54nrgnlkd.cloudfront.net
 
 
 Amazon S3 Static Website Endpoint:
