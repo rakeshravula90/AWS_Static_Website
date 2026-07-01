@@ -1,0 +1,28 @@
+Project Name:
+===============
+AWS Static Website Hosting
+
+Website URLs:-
+
+CloudFront Distribution URL (Primary):
+----------------------------------------
+
+dsms54nrgnlkd.cloudfront.net/index.html
+
+
+Amazon S3 Static Website Endpoint:
+-----------------------------------
+
+http://my-8090-bucket.s3-website.us-east-1.amazonaws.com/
+
+Amazon S3 Object URL:
+----------------------
+
+https://my-8090-bucket.s3.amazonaws.com/index.html
+
+Description:
+
+------------
+This project demonstrates hosting a static website using Amazon S3 with Static Website Hosting and Amazon CloudFront for content delivery. The website is successfully accessible through both the S3 Static Website Endpoint and the CloudFront Distribution URL.
+
+Thank you for reviewing my project.
